@@ -1,0 +1,10 @@
+
+.aboutus-section {
+    background-color: #f8f9fa;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.aboutus-section .about-img {
+    height: 300px;
+}

@@ -1,0 +1,19 @@
+
+footer {
+    background-color: #009688;
+}
+
+footer.page-footer .footer-copyright {
+    overflow: hidden;
+    color: rgba(255,255,255,0.6);
+    background-color: rgba(0,0,0,0.2);
+}
+
+footer p, footer a, footer h5 {
+    color: white;
+}
+
+footer a:hover {
+    color: white;
+    font-weight: bold;
+}

@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Beautiful shoes",
+        "description": "",
+        "img": "/img/high-heels-1327021_1280.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Beautiful pants",
+        "description": "",
+        "img": "/img/jeans-denim-fashion-pants.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Beautiful dress",
+        "description": "",
+        "img": "/img/pexels-photo-1750974.jpeg"
+    }
+]
